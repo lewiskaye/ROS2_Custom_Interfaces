@@ -1,9 +1,9 @@
 # Goal (Request)
-int32 target_angle #Degrees
-int32 speed #RPS
+float32 target_angle #Degrees
+float32 speed #RPS
 ---
 # Result
 int8 succeeded
 ---
 #Feedback
-int32 current_angle #Degrees
+float32 current_angle #Degrees
