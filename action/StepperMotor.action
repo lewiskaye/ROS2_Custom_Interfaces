@@ -3,7 +3,7 @@ int32 target_angle #Degrees
 int32 speed #RPS
 ---
 # Result
-bool succeeded
+int8 succeeded
 ---
 #Feedback
 int32 current_angle #Degrees
