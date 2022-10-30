@@ -1,0 +1,8 @@
+# Goal (Request)
+string imu_topic
+---
+# Result
+int8 succeeded
+---
+#Feedback
+int8 succeeded
