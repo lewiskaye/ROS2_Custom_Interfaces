@@ -1,4 +1,4 @@
-# Request
+# Goal (Request)
 int32 target_angle #Degrees
 int32 speed #RPS
 ---
